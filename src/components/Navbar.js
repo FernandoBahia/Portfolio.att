@@ -94,7 +94,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://fernandobahia.github.io/Portfolio/projetos.html"
+                href="https://fernandobahia.github.io/Porfolio.EnsinoMedio/projetos.html"
                 target="_blank"
                 rel="noreferrer"
               >
