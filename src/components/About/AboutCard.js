@@ -10,7 +10,7 @@ function AboutCard() {
           comecei minha graduação de nível superior no ano de 2025 também em ADS. &nbsp;
             <br />
             Em 2024 também comecei a trabalhar na <b className="purple">Softplan</b> como jovem aprendiz de Infraestrutura de TI. Tenho uma paixão por desenvolvimento de Software, web, banco de dados, Redes, Cyber Segurança e Inteligência Artificial.
-              Estou cada vez mais aprimorando meus conhecimentos na área, venho desenvolvendo minhas habilidades em Java, Javascript, SQL e Python, ultilizando Frameworks como Spring Boot, React.js e Node.Js, além do uso de IDEs como o VScode, Apache, PosteGreSQL e MYsql.
+              Estou cada vez mais aprimorando meus conhecimentos na área, venho desenvolvendo minhas habilidades em Java, Javascript, SQL e Python, ultilizando Frameworks como Spring Boot, React.js e Node.Js, além do uso de IDEs como o VScode, Apache, PosteGreSQL e MYsql!
               <br />
               <br />
             <br />
