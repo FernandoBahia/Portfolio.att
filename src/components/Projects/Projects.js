@@ -23,7 +23,7 @@ function Projects() {
               imgPath={acsiv}
               isBlog={false}
               title="ACSIV Suporte - SA"
-              description="Fornecer um sistema de suporte online para cartórios, separando as interações por setores específicos. Possibilitar comunicação entre Clientes (usuários que fazem dúvidas) e Administradores (usuários que fornecem respostas)."
+              description="Fornecer um sistema de suporte online para cartórios, separando as interações por setores específicos. Possibilitar comunicação entre Clientes (usuários que fazem dúvidas) e Administradores (usuários que fornecem respostas). Projeto feito em grupo, por isso esta no repositorio de outra pessoa"
               ghLink="https://github.com/juliapzp/projeto-sa"
               demoLink="https://www.canva.com/design/DAGP4-gYum8/PncM-rnUwOSd9MNN_0-MkQ/edit?utm_content=DAGP4-gYum8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
             />
@@ -34,7 +34,7 @@ function Projects() {
               imgPath={saep}
               isBlog={false}
               title="Saep 2024"
-              description="API de gerenciamento de Tarefas integrando o back-end e o Front-end, além de fazer o caso de uso os diagramas no BrmModelo e o Script SQL"
+              description="API de gerenciamento de Tarefas integrando o back-end e o Front-end, além de fazer o caso de uso os diagramas no BrModelo e o Script SQL"
               ghLink="https://github.com/FernandoBahia/Saep2024"
             
             />
